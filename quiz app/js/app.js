@@ -93,4 +93,4 @@ const quizEnd = () => {
         </div>
     `
 }
-loadQuestion(index);
+loadQuestion(index);<p> hello aman is this u </P>
